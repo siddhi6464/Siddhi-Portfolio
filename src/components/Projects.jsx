@@ -30,7 +30,7 @@ const Projects = () => {
       description: 'An intelligent platform bridging the gap between food donors and NGOs. Features real-time surplus tracking, automated volunteer matching, and logistical optimization to reduce food waste.',
       image: '/projects/food.png',
       tags: ['React', 'Node.js', 'Maps API'],
-      github: '#',
+      github: 'https://github.com/siddhi6464/Food_Donation_Management_',
       live: '#'
     },
     {
@@ -40,7 +40,7 @@ const Projects = () => {
       description: 'A complete ML pipeline achieving 88% accuracy with Random Forest. Features a Flask REST API and a React.js frontend for real-time ticket price forecasting.',
       image: 'https://images.unsplash.com/photo-1436491865332-7a61a109c0f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       tags: ['scikit-learn', 'Flask', 'React'],
-      github: 'https://github.com/siddhi6464/Airline-Ticket-Price-Prediction',
+      github: 'https://github.com/siddhi6464/Airline_Ticket_Price_Prediction',
       live: '#'
     }
   ];
